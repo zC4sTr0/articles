@@ -14,13 +14,13 @@ Sempre que há competição, existem pessoas que procuram se destacar das outras
 
 ### Como o aimbot sabe a força necessária para acertar alguém?
 
-O aimbot utiliza o manual de instruções do universo para descobrir a força: Física. Certa vez, um britânico baixinho e meio pálido chamado **Isaac Newton** descobriu as leis do movimento que governam o comportamento dos corpos físicos. Essas leis, conhecidas como **Leis de Newton**, descrevem como os objetos se movem quando submetidos a forças externas. O aimbot usa especificamente a famosa ************************Equação de Torricelli************************ *-equação que nunca foi criada pelo Torricelli-*, que é ensinada no ensino médio, você provavelmente já usou ela antes nas suas provinhas de Física:
+O aimbot utiliza o manual de instruções do universo para descobrir a força: Física. Certa vez, um britânico baixinho e meio pálido chamado **Isaac Newton** descobriu as leis do movimento que governam o comportamento dos corpos físicos. Essas leis, conhecidas como **Leis de Newton**, descrevem como os objetos se movem quando submetidos a forças externas. O aimbot usa especificamente a famosa **Equação de Torricelli** *-equação que nunca foi criada pelo Torricelli-*, que é ensinada no ensino médio, você provavelmente já usou ela antes nas suas provinhas de Física:
 
 ![aimbot-fisica](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e42c387-fe87-42ff-9f81-7cf7c7049669/Untitled.png)
 
 *— Sim,tudo que você precisa saber para fazer um aimbot foi ensinado pela professora nas aulinhas de física da escola!*
 
-No caso do aimbot, ele utiliza os princípios da Cinemática(Movimento Uniformemente Variado) para calcular a trajetória e a força necessária para acertar um alvo no GunBound baseado em algumas informações. O programa analisa diversos fatores, como a **posição do jogador**, o **ângulo do tiro,** **a posição sua e do inimigo**, a **direção e força do vento** e outros elementos presentes no jogo. Com base nesses dados, o aimbot determina a força necessária para o tiro chegar mais perto possível do alvo. ****************Ou seja, Atenção nesta parte! O *aimbot precisa de informações do jogo para fazer cálculos do tiro.* Esta parte é importante porque no GITZ nós consideramos aimbots ferramentas com informações precisas ou automáticas!**
+No caso do aimbot, ele utiliza os princípios da Cinemática(Movimento Uniformemente Variado) para calcular a trajetória e a força necessária para acertar um alvo no GunBound baseado em algumas informações. O programa analisa diversos fatores, como a **posição do jogador**, o **ângulo do tiro,** **a posição sua e do inimigo**, a **direção e força do vento** e outros elementos presentes no jogo. Com base nesses dados, o aimbot determina a força necessária para o tiro chegar mais perto possível do alvo. **Ou seja, Atenção nesta parte! O *aimbot precisa de informações do jogo para fazer cálculos do tiro.* Esta parte é importante porque no GITZ nós consideramos aimbots ferramentas com informações precisas ou automáticas!**
 
 ## História dos Aimbots no Gunbound
 
@@ -34,7 +34,7 @@ Basicamente a chart é um monte de valores de força necessários para atirar em
 
 *Tabela com ângulos, forças e distâncias para um T2 Fork com o mobile Turtle*
 
-Ou seja, as charts já fornecem um pequeno **nível de automação** porque ela diz qual a força necessária para acertar e o usuário ********************************************************************não precisa saber esta força********************************************************************, precisa apenas olhar a tabela.
+Ou seja, as charts já fornecem um pequeno **nível de automação** porque ela diz qual a força necessária para acertar e o usuário **não precisa saber esta força**, precisa apenas olhar a tabela.
 
 ### ****Observação: As *Charts*, assim como o "aimbot convencional" - onde você não decide a força por conta própria - diferem em termos de velocidade na obtenção das informações: A automação do processo de cálculo da força.**
 
@@ -53,14 +53,34 @@ A verdade é que aimbots e charts não são tão diferentes assim. Ambos são pr
 
 **O  que geralmente é considerado aimbot pelos jogadores?**
 
-Em sua forma mais básica, um Aimbot é um programa que auxilia o jogador a mirar automaticamente em seus oponentes, tornando o processo de tiro mais fácil e preciso. No entanto, muitos jogadores também consideram como Aimbot qualquer tipo de assistência que melhore a precisão, como a exibição de miras ou informações sobre a trajetória, incluindo charts. É o chamado “***Feel***”.
+!https://github.com/zC4sTr0/articles/blob/main/GunBound%20Hacks%20Series/aimbots/images/aimbot-dbp.gif?raw=true
 
-As charts, por sua vez, são como versões manuais e antiquadas dos aimbots. Elas são como um avô sábio, que ainda usa um telefone de discagem enquanto o resto do mundo está nas redes sociais. Sim, elas podem ajudar os jogadores a acertar seus tiros, mas estão longe da eficiência e velocidade dos aimbots. É como comparar um carro de Fórmula 1 com uma carroça puxada por cavalos. Ambos podem chegar ao destino, mas um é muito mais rápido e moderno. O excel seria apenas a transição entre ambos (talvez ele é o “***Nokia tijolão***”?). A grande questão aqui é o grau de automação e precisão. Quanto mais rápido, preciso e automático é o processo, mais próximo estamos de um aimbot de verdade. 
+*Dragon Bot PRO - Um dos aimbots mais automáticos - Não é funcional no GITZ.*
 
-O Excel pode ser um aimbot preguiçoso, que precisa de intervenção humana para inserir dados (que podem ser muito imprecisos e tirado de uma régua duvidosa) e calcular as forças necessárias. Já os aimbots em sua forma mais avançada são como atletas olímpicos das trapaças, realizando cálculos complexos em milissegundos, antes que você consiga piscar os olhos.
+Basicamente, um Aimbot é um programa que auxilia jogadores a mirarem automaticamente nos oponentes, facilitando e tornando o tiro mais preciso. Porém, muitos classificam qualquer assistência que melhore a precisão como Aimbot, até mesmo a exibição de miras ou informações sobre a trajetória - o chamado "***Feel***".
 
-Então, estamos diante de uma linha tênue, um gradiente moral que nos separa da automação ilegal. É como a diferença entre uma xícara de café comum e uma dose de tequila. Ambos podem nos animar, mas um pode nos colocar em encrenca legal. É uma dança perigosa entre a vantagem competitiva e a ética. Portanto, a dificuldade em definir um Aimbot está enraizada nesse gradiente entre automação aceitável e trapaça descarada. E enquanto os desenvolvedores continuam a aprimorar suas defesas contra esses robozinhos malignos, nós, jogadores, devemos nos perguntar: até onde estamos dispostos a ir para obter uma vantagem injusta? Será que vale a pena arriscar a nossa integridade moral e conta pelo prazer da falsa sabedoria?
+As charts, por sua vez, são como versões manuais e antiquadas dos aimbots. Elas são como um avô sábio, que ainda usa um telefone de discagem enquanto o resto do mundo está nas redes sociais. Embora *charts* ajudem os jogadores a acertar tiros, não se comparam à eficiência e velocidade dos aimbots. É como comparar um carro de Fórmula 1 com uma carroça puxada por cavalos. Ambos podem chegar ao destino, mas um é muito mais rápido e moderno. O Excel estaria em algum lugar no meio - *talvez o "Nokia tijolão" da história? -* A grande questão aqui é o grau de automação e precisão. **Quanto mais rápido, preciso e automático é o processo, mais próximo estamos de um aimbot de verdade**. A questão central é o grau de automação e precisão. Quanto mais ágil, preciso e automático o processo, mais se assemelha a um legítimo aimbot. O Excel é como um aimbot lento, que precisa da intervenção humana para inserir dados e calcular forças, enquanto os aimbots avançados são como trapaças olímpicas, executando cálculos complexos em milissegundos.
 
-Cada jogador pode ter sua própria percepção do que é considerado justo ou não, e cabe às desenvolvedoras dos jogos definirem suas próprias políticas sobre o uso de assistências.
+Então, estamos diante de uma linha tênue, um gradiente moral que nos separa da automação ilegal. É como a diferença entre uma xícara de café comum e uma dose de tequila. Ambos podem nos animar, mas um pode nos colocar em encrenca legal. É uma dança perigosa entre a vantagem competitiva e a ética. A dificuldade em definir um Aimbot está enraizada nesse gradiente entre automação aceitável e trapaça descarada. Cada jogador pode ter sua própria percepção do que é considerado justo ou não, e cabe às desenvolvedoras dos jogos definirem suas próprias políticas sobre o uso de assistências.
 
-No fim das contas, é um jogo dentro do jogo. Uma batalha épica entre humanos e máquinas, onde os limites são turvos e a linha entre o certo e o errado se desfaz. Então, cuidado, meu amigo, quando se aventurar nesse mundo traiçoeiro do GunBound, pois se o aimbot pode estar ao seu lado, sussurrando tentações em seu ouvido, **nós vamos agir** e você não vai querer estar do lado errado dessa batalha.
+No fim, é um jogo dentro do jogo. Uma luta épica entre humanos e máquinas(às vezes de bots contra bots), onde os limites são turvos e a linha entre o certo e o errado se esvai. Então, cuidado ao se aventurar no mundo traiçoeiro do GunBound - se um aimbot está ao seu lado, **nós vamos agir!**
+
+# O que é considerado aimbot no GITZ?
+
+Devido a injustiça de se tratar cada caso com viés humano, é necessário métricas e diretrizes claras para determinar o que é considerado aimbot no GITZ. Aqui, consideramos como aimbot qualquer ferramenta de auxílio de tiro que forneça informações precisas ou automáticas, independentemente do grau de automação ou precisão. Não importa se ela é do século passado e opera com a velocidade de um bicho-preguiça ou se é tão moderna e rápida quanto uma Ferrari. De Excel à software avançado, todos estão inclusos no pacote caso tenha um dos critérios.
+
+Seguem alguns critérios importantes:
+
+1. **Automação**: Qualquer mecanismo que automatize demais o processo de determinar a força e o ângulo de um tiro é considerado aimbot. Isso inclui tabelas automatizadas (Excel) e programas de software que realizam **cálculos em tempo real sem necessidade de medir ou inserir manualmente dados do jogo**, qualquer ferramenta que **efetue o disparo automaticamente**, ou automatize qualquer trabalho do jogador no jogo.
+2. **Precisão**: Ferramentas que coletam dados milimetricos dos ângulos de força e vento, desvio e distância na tela. As réguas são permitidas, **mas são consideradas aimbots caso sejam muito precisas (**com casas decimais, por exemplo) **ou automáticas**.
+3. **Informações de jogo**: Se a ferramenta tira informações do jogo automaticamente, como posição do jogador, ângulo de tiro, posição do inimigo, direção e força do vento, entre outros, e as usa para calcular a força e o ângulo do tiro, é considerado aimbot. **As informações devem ser utilizadas e medidas manualmente**.
+4. **Feedback instantâneo**: Se a ferramenta pode fornecer feedback instantâneo ao jogador sobre a força e o ângulo do tiro baseado nos dados do jogo, ela é considerada aimbot. É necessário que exista uma interface humana, onde o jogador é responsável por inserir os dados.
+5. **Trajetória ou desenho de força na tela: Ferramentas que desenham a força ou trajetória são estritamente proibidas mesmo que não seja em cima do jogo.** Réguas só são permitidas caso tenham precisão sem casas decimais.
+
+Perceba que mesmo um excel, chart, ou ferramenta que você batize com qualquer nome pode ser considerado um aimbot. *Cada caso é analisado individualmente conforme estes critérios.*
+
+### Sim, se você usa Excel para ter vantagem, está sob risco de banimento.
+
+ No fundo, nós preocupamos em criar o **ambiente mais justo possível.** A verdade é que, na maioria das vezes, a definição de um aimbot é tão clara quanto uma sopa de batata. Mas, em nossa busca incansável por justiça, nos esforçamos para estabelecer limites claros e justos para todos. Cabe ainda salientar que estas são apenas diretrizes gerais e cada caso é analisado individualmente, tendo em conta as circunstâncias específicas. E antes que você pergunte, "Mas como vocês vão descobrir?", bem, isso é uma história para outro artigo. Mas, em suma, eu, **Rizzo e AkaCe** desenvolvemos um sistema extremamente eficaz de detecção de aimbots, chamada **GunProtect** -algo como um super robô treinado para matar outros robôs, uma coisa bem louca mesmo- Juntos, construímos a proteção anti-aimbot mais poderosa do mundo, que já efetuou milhares de banimentos aqui no GITZ.
+
+Para aqueles que ousarem desafiar a integridade do GunBound, saibam que estaremos sempre vigilantes. Nosso compromisso é com a justiça e a igualdade, proporcionando um ambiente de jogo equilibrado para todos. A batalha entre humanos e bots é uma luta constante, mas com a determinação de nossa equipe, garantimos que aqueles que buscam uma vantagem injusta sejam punidos.
