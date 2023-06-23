@@ -63,6 +63,4 @@ Então, estamos diante de uma linha tênue, um gradiente moral que nos separa da
 
 Cada jogador pode ter sua própria percepção do que é considerado justo ou não, e cabe às desenvolvedoras dos jogos definirem suas próprias políticas sobre o uso de assistências.
 
-No fim das contas, é um jogo dentro do jogo. Uma batalha épica entre humanos e máquinas, onde os limites são turvos e a linha entre o certo e o errado se desfaz. Então, cuidado, meu amigo, quando se aventurar nesse mundo traiçoeiro do GunBound, pois se o aimbot pode estar ao seu lado, sussurrando tentações em seu ouvido, **nós vamos agir**!
-
-Portanto,
+No fim das contas, é um jogo dentro do jogo. Uma batalha épica entre humanos e máquinas, onde os limites são turvos e a linha entre o certo e o errado se desfaz. Então, cuidado, meu amigo, quando se aventurar nesse mundo traiçoeiro do GunBound, pois se o aimbot pode estar ao seu lado, sussurrando tentações em seu ouvido, **nós vamos agir** e você não vai querer estar do lado errado dessa batalha.
