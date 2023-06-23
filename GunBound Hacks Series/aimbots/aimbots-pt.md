@@ -37,7 +37,7 @@ Basicamente a chart é um monte de valores de força necessários para atirar em
 
 Ou seja, as charts já fornecem um pequeno **nível de automação** porque ela diz qual a força necessária para acertar e o usuário **não precisa saber esta força**, precisa apenas olhar a tabela.
 
-### ****Observação: As *Charts*, assim como o "aimbot convencional" - onde você não decide a força por conta própria - diferem em termos de velocidade na obtenção das informações: A automação do processo de cálculo da força.**
+### Observação: As *Charts*, assim como o "aimbot convencional" - onde você não decide a força por conta própria - diferem em termos de velocidade na obtenção das informações: A automação do processo de cálculo da força.
 
 Enquanto o aimbot busca as informações automaticamente, de forma precisa e rápida, as Charts ou tabelas requerem que alguém "meça" (muitas vezes de forma imprecisa ou com uma régua ruim) e as insira em uma tabela (Excel) ou as consulte em uma tabela (chart).
 
