@@ -8,7 +8,7 @@ Sempre que há competição, existem pessoas que procuram se destacar das outras
 
 ## O que é um aimbot?
 
-!https://github.com/zC4sTr0/substack-material/blob/main/images/trico.gif?raw=true
+![trico](https://github.com/zC4sTr0/articles/assets/38432614/e149bf08-6312-499f-b46f-1b7cf2876306)
 
 “*O aimbot é um método ilegal que é utilizado de forma a auxiliar na precisão dos tiros no GunBound.”*
 
@@ -26,11 +26,12 @@ No caso do aimbot, ele utiliza os princípios da Cinemática(Movimento Uniformem
 
 Desde o seu lançamento no início dos anos 2000, o GunBound tem sido alvo de trapaceiros que buscam obter vantagem competitiva através do uso de Aimbots e outras ferramentas. As primeiras ferramentas de auxílio conhecidas são as chamadas **Charts** *(ou tabelas, para os mais chegados)*, as mais famosas foram reunidas pelo [CreedoGB](http://creedo.gbgl-hq.com) por volta de 2005-2006, mas a origem delas são da comunidade: Antigos clãs que postaram em antigos sites (gbpros.com, gbgl-hq.com, entre outos).
 
-![creedoGB-website](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a811c0e-f59f-4913-aa09-4ff30cfa892e/Untitled.png)
+![creedo-gb-website](https://github.com/zC4sTr0/articles/assets/38432614/6a8e994f-c3d3-4a1c-b960-96975ede73bd)
 
 Basicamente a chart é um monte de valores de força necessários para atirar em determinadas situações. 
 
-![chart-example](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/182597d2-29c8-4666-964c-1d8e9beea881/Untitled.png)
+![chart-creedogb-turtle](https://github.com/zC4sTr0/articles/assets/38432614/5d1bc8aa-2337-4113-bca2-e76003b101e1)
+
 
 *Tabela com ângulos, forças e distâncias para um T2 Fork com o mobile Turtle*
 
@@ -53,15 +54,22 @@ A verdade é que aimbots e charts não são tão diferentes assim. Ambos são pr
 
 **O  que geralmente é considerado aimbot pelos jogadores?**
 
-!https://github.com/zC4sTr0/articles/blob/main/GunBound%20Hacks%20Series/aimbots/images/aimbot-dbp.gif?raw=true
+ ![aimbot-dbp](https://github.com/zC4sTr0/articles/assets/38432614/c148ac85-7009-46e7-b4fd-9f7bca63fabb)
 
 *Dragon Bot PRO - Um dos aimbots mais automáticos - Não é funcional no GITZ.*
 
 Basicamente, um Aimbot é um programa que auxilia jogadores a mirarem automaticamente nos oponentes, facilitando e tornando o tiro mais preciso. Porém, muitos classificam qualquer assistência que melhore a precisão como Aimbot, até mesmo a exibição de miras ou informações sobre a trajetória - o chamado "***Feel***".
 
-As charts, por sua vez, são como versões manuais e antiquadas dos aimbots. Elas são como um avô sábio, que ainda usa um telefone de discagem enquanto o resto do mundo está nas redes sociais. Embora *charts* ajudem os jogadores a acertar tiros, não se comparam à eficiência e velocidade dos aimbots. É como comparar um carro de Fórmula 1 com uma carroça puxada por cavalos. Ambos podem chegar ao destino, mas um é muito mais rápido e moderno. O Excel estaria em algum lugar no meio - *talvez o "Nokia tijolão" da história? -* A grande questão aqui é o grau de automação e precisão. **Quanto mais rápido, preciso e automático é o processo, mais próximo estamos de um aimbot de verdade**. A questão central é o grau de automação e precisão. Quanto mais ágil, preciso e automático o processo, mais se assemelha a um legítimo aimbot. O Excel é como um aimbot lento, que precisa da intervenção humana para inserir dados e calcular forças, enquanto os aimbots avançados são como trapaças olímpicas, executando cálculos complexos em milissegundos.
+As charts, por sua vez, são como versões manuais e antiquadas dos aimbots. Elas são como um avô sábio, que ainda usa um telefone de discagem enquanto o resto do mundo está nas redes sociais. Embora *charts* ajudem os jogadores a acertar tiros, não se comparam à eficiência e velocidade dos aimbots. É como comparar um carro de Fórmula 1 com uma carroça puxada por cavalos. Ambos podem chegar ao destino, mas um é muito mais rápido e moderno. O Excel estaria em algum lugar no meio - *talvez o "Nokia tijolão" da história? -* A grande questão aqui é o grau de automação e precisão. **Quanto mais rápido, preciso e automático é o processo, mais próximo estamos de um aimbot de verdade**. A questão central é o grau de automação e precisão. Quanto mais ágil, preciso e automático o processo, mais se assemelha a um legítimo aimbot. 
+
+![excel-example](https://github.com/zC4sTr0/articles/assets/38432614/df1bb1f3-d2de-48fc-842e-4156b52255fb)
+<sub>— Tabela do excel, é algo parecido com um “aimbot manual”. No GITZ é considerado aimbot em alguns casos, por exemplo: Quando a régua de distância tem precisão muito elevada, quando a força ou trajetória é desenhada, ou quando o excel pega informações automaticamente.</sub>
+O Excel é como um aimbot lento, que precisa da intervenção humana para inserir dados e calcular forças, enquanto os aimbots avançados são como trapaças olímpicas, executando cálculos complexos em milissegundos.
 
 Então, estamos diante de uma linha tênue, um gradiente moral que nos separa da automação ilegal. É como a diferença entre uma xícara de café comum e uma dose de tequila. Ambos podem nos animar, mas um pode nos colocar em encrenca legal. É uma dança perigosa entre a vantagem competitiva e a ética. A dificuldade em definir um Aimbot está enraizada nesse gradiente entre automação aceitável e trapaça descarada. Cada jogador pode ter sua própria percepção do que é considerado justo ou não, e cabe às desenvolvedoras dos jogos definirem suas próprias políticas sobre o uso de assistências.
+
+![image](https://github.com/zC4sTr0/articles/assets/38432614/2c03aa9f-f298-4935-888a-efe7480ae50f)
+<sub>— WindChart - Uma espécie de “Aimbot Lento Manual” que desenha trajetória e marca a força na tela, mas você que precisa inserir manualmente dados do vento, mobile, ângulo, etc. - É proibido porque no GITZ, proibimos desenhos de trajetória e de força na tela ou fora da tela.</suvb>
 
 No fim, é um jogo dentro do jogo. Uma luta épica entre humanos e máquinas(às vezes de bots contra bots), onde os limites são turvos e a linha entre o certo e o errado se esvai. Então, cuidado ao se aventurar no mundo traiçoeiro do GunBound - se um aimbot está ao seu lado, **nós vamos agir!**
 
