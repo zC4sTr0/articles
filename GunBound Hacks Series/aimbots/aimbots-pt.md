@@ -16,8 +16,7 @@ Sempre que há competição, existem pessoas que procuram se destacar das outras
 
 O aimbot utiliza o manual de instruções do universo para descobrir a força: Física. Certa vez, um britânico baixinho e meio pálido chamado **Isaac Newton** descobriu as leis do movimento que governam o comportamento dos corpos físicos. Essas leis, conhecidas como **Leis de Newton**, descrevem como os objetos se movem quando submetidos a forças externas. O aimbot usa especificamente a famosa **Equação de Torricelli** *-equação que nunca foi criada pelo Torricelli-*, que é ensinada no ensino médio, você provavelmente já usou ela antes nas suas provinhas de Física:
 
-![aimbot-fisica](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e42c387-fe87-42ff-9f81-7cf7c7049669/Untitled.png)
-
+![image](https://github.com/zC4sTr0/articles/assets/38432614/601a2da1-80bf-4425-8d81-5fbbc0c4d152)
 *— Sim,tudo que você precisa saber para fazer um aimbot foi ensinado pela professora nas aulinhas de física da escola!*
 
 No caso do aimbot, ele utiliza os princípios da Cinemática(Movimento Uniformemente Variado) para calcular a trajetória e a força necessária para acertar um alvo no GunBound baseado em algumas informações. O programa analisa diversos fatores, como a **posição do jogador**, o **ângulo do tiro,** **a posição sua e do inimigo**, a **direção e força do vento** e outros elementos presentes no jogo. Com base nesses dados, o aimbot determina a força necessária para o tiro chegar mais perto possível do alvo. **Ou seja, Atenção nesta parte! O *aimbot precisa de informações do jogo para fazer cálculos do tiro.* Esta parte é importante porque no GITZ nós consideramos aimbots ferramentas com informações precisas ou automáticas!**
